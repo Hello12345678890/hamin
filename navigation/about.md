@@ -40,6 +40,18 @@ permalink: /about/
         {"flag": "a/ac/Flag_of_Indiana.svg", "greeting": "Hi", "description": "Indiana - 7 years"},
         {"flag": "0/09/Flag_of_South_Korea.svg", "greeting": "안녕", "description": "South_Korea - 3 years"},
     ]; 
+
+    ### Journey Through Life
+
+    Born in South Korea 2010
+    Move to Indiana 2013
+    Go to elementary school 2015-2019
+    Move to LA 2019
+    Go to school 2019-2020
+    Move to San Diego 2020
+    Go to school 2020-now
+
+    
     
     // 3a. Consider how to update style count for size of container
     // The grid-template-columns has been defined as dynamic with auto-fill and minmax
