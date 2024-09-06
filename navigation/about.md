@@ -51,8 +51,10 @@ permalink: /about/
     Move to San Diego 2020
     Go to school 2020-now
 
-    
-    
+    ### interests and disinterests
+    I like playing video games and reading books. I enjoy to play board games with my family and beating them. I like math and science. I dislike doing what my parents tell me to do. I dislike history and language arts.
+
+ 
     // 3a. Consider how to update style count for size of container
     // The grid-template-columns has been defined as dynamic with auto-fill and minmax
 
