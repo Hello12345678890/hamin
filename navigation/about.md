@@ -41,18 +41,7 @@ permalink: /about/
         {"flag": "0/09/Flag_of_South_Korea.svg", "greeting": "안녕", "description": "South_Korea - 3 years"},
     ]; 
 
-    ### Journey Through Life
 
-    Born in South Korea 2010
-    Move to Indiana 2013
-    Go to elementary school 2015-2019
-    Move to LA 2019
-    Go to school 2019-2020
-    Move to San Diego 2020
-    Go to school 2020-now
-
-    ### interests and disinterests
-    I like playing video games and reading books. I enjoy to play board games with my family and beating them. I like math and science. I dislike doing what my parents tell me to do. I dislike history and language arts.
 
  
     // 3a. Consider how to update style count for size of container
