@@ -77,10 +77,10 @@ permalink: /about/
 
 
 ### My life
-Come to Indiana 2013
-go to elementary school 2015-2019
-Move to LA 2019
-Go to elementary school 2019-2020
-Move to San Diego 2020
-Go to elementary school 2020-2021
-Go to middle school 2021-2024
+* Come to Indiana 2013
+* go to elementary school 2015-2019
+* Move to LA 2019
+* Go to elementary school 2019-2020
+* Move to San Diego 2020
+* Go to elementary school 2020-2021
+* Go to middle school 2021-2024
