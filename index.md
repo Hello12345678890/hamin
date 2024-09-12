@@ -5,7 +5,6 @@ description: Home Page
 image: /images/mario_animation.png
 hide: true
 ---
-{% include nav/home.html %}
 
 new kasm test
 <!-- Liquid:  statements -->
