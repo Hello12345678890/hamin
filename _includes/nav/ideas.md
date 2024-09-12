@@ -1,3 +1,7 @@
-{% include nav/home.html %}
+---
+layout: page
+title: Ideas
+permalink: /ideas/
+---
 
 Future brainstorm ideas
