@@ -6,8 +6,7 @@ permalink: /snake/
 
 <style>
 
-    .body{
-    }
+    .body{10 }
     .wrap{
         margin-left: auto;
         margin-right: auto;
