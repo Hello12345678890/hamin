@@ -119,7 +119,7 @@ permalink: /snake/
         const canvas = document.getElementById("snake");
         const ctx = canvas.getContext("2d");
         // HTML Game IDs
-        const SCREEN_SNAKE = 0;
+        const SCREEN_SNAKE = 50;
         const screen_snake = document.getElementById("snake");
         const ele_score = document.getElementById("score_value");
         const speed_setting = document.getElementsByName("speed");
@@ -363,8 +363,8 @@ permalink: /snake/
         /////////////////////////////////////////////////////////////
         let setWall = function(wall_value){
             wall = wall_value;
-            if(wall === 0){screen_snake.style.borderColor = "#606060";}
-            if(wall === 1){screen_snake.style.borderColor = "#FFFFFF";}
+            if(wall === 0){screen_snake.style.borderColor = "#00FF00";}
+            if(wall === 1){screen_snake.style.borderColor = "#00FF00";}
         }
     })();
 </script>
