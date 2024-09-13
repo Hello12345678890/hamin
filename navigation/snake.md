@@ -6,7 +6,7 @@ permalink: /snake/
 
 <style>
 
-    .body {
+    body{
     }
     .wrap{
         margin-left: auto;
@@ -17,7 +17,7 @@ permalink: /snake/
         display: none;
         border-style: solid;
         border-width: 10px;
-        border-color: #66CCFF;
+        border-color: #FFFFFF;
     }
     canvas:focus{
         outline: none;
@@ -63,8 +63,8 @@ permalink: /snake/
     }
 
     #setting input:checked + label{
-        background-color: #0F0;
-        color: #561;
+        background-color: #FFF;
+        color: #000;
     }
 </style>
 
