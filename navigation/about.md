@@ -88,3 +88,11 @@ permalink: /about/
 
 ### Intrests and disintrests
 I like playing video games and reading books. I enjoy play board games with my family. I like k-pop. I like watching baseball, tennis, and golf. I dislike doing what my parents tell me to do. I dislike playing sports.
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
