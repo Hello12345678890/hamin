@@ -215,5 +215,6 @@ Focus on tehnical communications through project presentations and student led t
 Grades are on projects, learnt concepts, and live reviews between student(s) and teacher
 Classroom work time is 3-4 hours per week. Homework expectations are approximately 2-3 hours per week. Homework is scheduled over a Sprint, approximately 2-4 weeks. Time lost is extremely hard to make up as all materials are cummulative.
 
-Solo leveling igris
-image
+Solo leveling
+![image](https://github.com/user-attachments/assets/22e160f1-2830-4b3a-ad0b-f9b20c4390ce)
+
