@@ -12,5 +12,5 @@ permalink: /anime/
 <div style="border: 4px solid white; padding: 20px;">
   <a style="border: 4px solid pink; font-size: 1.5em; padding: 10px; display: block; width: 25%;">Naruto, Dragon Ball Z, Gundam</a>
   <a style="border: 4px solid blue; font-size: 1.5em; padding: 10px; display: block; width: 25%;">Bleach TYBW 3, Blue Lock 2, Jujutsu Kaisen 3, Tower of God 3, Solo Leveling 2, That Time I was Reincarnated as a Slime 4</a>
-  <p style="border: 4px solid orange; font-size: 1.5em; padding: 10px;">Top: Anime That I Need to Watch Bottom: Future Anime That I Need to Watch</p>
+  <p style="border: 4px solid orange; font-size: 1.5em; padding: 10px;">Top: Anime That I Need to Watch. Bottom: Future Anime That I Need to Watch.</p>
 </div>
