@@ -40,9 +40,3 @@ permalink: /rpg/
     // Start game engine
     GameControl.start(assets);
 </script>
-    //const assets = {sprite: sprite}
-    const assets = {image: image, sprite: sprite}
-
-    // Start game engine
-    GameControl.start(assets);
-</script>
