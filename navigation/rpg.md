@@ -7,17 +7,17 @@ permalink: /rpg/
 <canvas id='gameCanvas'></canvas>
 
 <script type="module">
-    import GameControl from '/portfolio_2025/assets/js/rpg/GameControl.js';
+    import GameControl from '{{site.baseurl}}/assets/js/rpg/GameControl.js';
 
     // Background data
-    const image_src = "/portfolio_2025/images/rpg/water.png";
+    const image_src = "{{site.baseurl}}/images/rpg/traveler.jpg";
     const image_data = {
-        pixels: {height: 580, width: 1038}
+        pixels: {height: 1080, width: 1920}
     };
     const image = {src: image_src, data: image_data};
 
     // Sprite data
-    const sprite_src = "/portfolio_2025/images/rpg/turtle.png";
+    const sprite_src = "{{site.baseurl}}/images/rpg/turtle.png";
     const sprite_data = {
         SCALE_FACTOR: 10,
         STEP_FACTOR: 1000,
@@ -31,7 +31,7 @@ permalink: /rpg/
     };
     const sprite = {src: sprite_src, data: sprite_data};
 
-    // Uncomment 1 of the 4 lines to change assets being used
+    // Assets for game
     //const assets = {}
     //const assets = {image: image}
     //const assets = {sprite: sprite}
